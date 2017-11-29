@@ -1,7 +1,8 @@
 <?php
 /*
-  Plugin Name: Site plugin for www.avantbard.org
+  Plugin Name: Avant Bard Site Plugin
   Description: Site specific code changes for WSC Avant Bard's website, www.avantbard.org
+  Version: 0.01
 */
 
 /* Start adding functions below this line */
